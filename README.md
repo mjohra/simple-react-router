@@ -1,6 +1,6 @@
 # Simple React Router
 
-This project was bootstrapped with [https://adoring-perlman-d067e4.netlify.app](https://adoring-perlman-d067e4.netlify.app).
+This project is available in [https://adoring-perlman-d067e4.netlify.app](https://adoring-perlman-d067e4.netlify.app).
 
 ## Task
 
